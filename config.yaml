@@ -12,7 +12,7 @@ inbounds:
   streamSettings:
     network: ws
     wsSettings:
-      path: trojan
+      path: qwe
   sniffing:
     enabled: true
     destOverride:
